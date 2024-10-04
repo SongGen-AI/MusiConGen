@@ -53,16 +53,16 @@ def traverse_dir(
 
 
 if __name__ == '__main__':
-    path_rootdir = '../audiocraft/dataset/example/full'
+    path_rootdir = '../../audiocraft/dataset/example/full'
 
     st_idx, ed_idx = 0, None
-    ext_src = 'mp3'
+    ext_src = 'wav'
     ext_dst = 'wav'
 
     # list files
     filelist = traverse_dir(
         path_rootdir,
-        extension='mp3',
+        extension='wav',
         str_include='',
         is_sort=True)
     num_file = len(filelist)
@@ -85,10 +85,11 @@ if __name__ == '__main__':
         # path
         srcfile = filelist[i]
         print(srcfile)
+        filename= srcfile.split("/")[-1].split(f".{ext_dst}")[0]
         srcfile_dir = os.path.dirname(srcfile)
-        source_folder = os.path.join(tmp_dir, 'htdemucs', 'full')
-        path_src_vocals = os.path.join(source_folder, f'vocals.{ext_dst}')
-        path_src_no_vocals = os.path.join(source_folder, f'no_vocals.{ext_dst}')
+        source_folder = os.path.join(tmp_dir, 'htdemucs')
+        path_src_vocals = os.path.join(source_folder, filename, f'vocals.{ext_dst}')
+        path_src_no_vocals = os.path.join(source_folder, filename, f'no_vocals.{ext_dst}')
         path_dst_vocals = os.path.join(srcfile_dir, f'vocals.{ext_dst}')
         path_dst_no_vocals =  os.path.join(srcfile_dir, f'no_vocal.{ext_dst}')
 

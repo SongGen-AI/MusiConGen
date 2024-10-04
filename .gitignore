@@ -3,3 +3,6 @@ audiocraft/ckpt/*
 audiocraft/output_samples
 audiocraft/training_weights/*
 **/.DS_Store
+audiocraft/dataset/example/*
+preproc/1_beats-crop/*.txt
+preproc/2_chord/BTC-ISMIR19

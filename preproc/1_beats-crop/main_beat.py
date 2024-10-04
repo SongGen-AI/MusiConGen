@@ -134,15 +134,15 @@ def gen_pairs(path_inpdir, audio_basename, ext):
     return pairs, num_files
 
 if __name__ == '__main__':
-    path_rootdir = '../audiocraft/dataset/example/full'
-    audio_basename = 'no_vocals'
+    path_rootdir = '../../audiocraft/dataset/example/full'
+    audio_basename = 'no_vocal'
     ext = 'wav'
 
     # list files
     pairs, num_files = gen_pairs(path_rootdir, audio_basename, ext)
     
     # count cpu
-    cpu_count = 4
+    cpu_count = 12
     print(' > cpu count:', cpu_count)
 
     start_time_all = time.time()

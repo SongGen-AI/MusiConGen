@@ -11,7 +11,6 @@ import sys
 import time
 import datetime
 
-
 os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 
 # sp.call(["curl", "https://essentia.upf.edu/models/classification-heads/genre_discogs400/genre_discogs400-discogs-effnet-1.pb", "--output", "genre_discogs400-discogs-effnet-1.pb"])
@@ -182,7 +181,7 @@ def process_one(filename):
 
     # tempo
     tempo, _ = librosa.beat.beat_track(y=y, sr=sr)
-    tempo = round(tempo)
+    tempo = round(tempo[0])
 
     # get key
     chroma = librosa.feature.chroma_stft(y=y, sr=sr)
@@ -220,7 +219,7 @@ def process_one(filename):
         json.dump(entry, file)
 
 if __name__ == '__main__':
-    root_dir = '../audiocraft/dataset/example/clip'
+    root_dir = '../../../audiocraft/dataset/example/clip'
 
     base_audio = 'no_vocal'
     base_ext = 'wav'
@@ -245,11 +244,11 @@ if __name__ == '__main__':
         print(filename)
         
         start_time = time.time()
-        try:
-            process_one(filename)
-        except:
-            print('[x] aborted')
-            continue
+        # try:
+        process_one(filename)
+        # except:
+        #     print('[x] aborted')
+            # continue
         end_time = time.time()
         runtime = end_time - start_time
         print('testing time:', str(datetime.timedelta(seconds=runtime))+'\n')

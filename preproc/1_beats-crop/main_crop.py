@@ -54,7 +54,7 @@ BAR_FIRST = 8
 if __name__ == '__main__':
     start_time_all = time.time()
 
-    path_dset = '../audiocraft/dataset/example'
+    path_dset = '../../audiocraft/dataset/example'
     path_inpdir = os.path.join(path_dset, 'full')
     path_outdir = os.path.join(path_dset, 'clip')
     st, ed = 0, None
@@ -75,7 +75,7 @@ if __name__ == '__main__':
         fn = filelist[fidx]
         dn = os.path.dirname(fn)
         path_audio = os.path.join(path_inpdir, fn)
-        path_beats = os.path.join(path_inpdir, dn, 'beats.npy')
+        path_beats = os.path.join(path_inpdir, dn, 'no_vocals.npy')
 
         print(fn)
         if not os.path.exists(path_audio):
@@ -87,75 +87,75 @@ if __name__ == '__main__':
             continue
 
         # ==========
-        try: 
-            beats = np.load(path_beats)
-            wav, sr = sf.read(path_audio, always_2d=True)
-            duration =  len(wav) / sr
-            print(' > wav:', wav.shape)
-            print(' > sr: ', sr)
-            print(' > ch: ', wav.shape[1])
-            print(' > duration:', len(wav) / sr)
+        # try: 
+        beats = np.load(path_beats)
+        wav, sr = sf.read(path_audio, always_2d=True)
+        duration =  len(wav) / sr
+        print(' > wav:', wav.shape)
+        print(' > sr: ', sr)
+        print(' > ch: ', wav.shape[1])
+        print(' > duration:', len(wav) / sr)
 
-            bar_idx = np.where(beats[:, 1] == 1)[0]
-            num_bars = len(bar_idx)
-            print(' > number of bars:', num_bars)
+        bar_idx = np.where(beats[:, 1] == 1)[0]
+        num_bars = len(bar_idx)
+        print(' > number of bars:', num_bars)
 
-            BAR_HOP = int(30 / (duration  / num_bars))
-            print(' > bar hop:', BAR_HOP)
+        BAR_HOP = int(30 / (duration  / num_bars))
+        print(' > bar hop:', BAR_HOP)
 
-            bar_starts = [bar_idx[i] for i in range(3, len(bar_idx), BAR_HOP)]
+        bar_starts = [bar_idx[i] for i in range(3, len(bar_idx), BAR_HOP)]
 
-            clip_starts = []
-            for bs in bar_starts:
-                item = (
-                    beats[bs, 0], # seconds
-                    bs # index
-                )
-                clip_starts.append(item)
+        clip_starts = []
+        for bs in bar_starts:
+            item = (
+                beats[bs, 0], # seconds
+                bs # index
+            )
+            clip_starts.append(item)
 
-            max_sample = wav.shape[0] - 10*sr
-            CLIP_LEN_SAMPLE = CROP_LEN_SEC*sr
+        max_sample = wav.shape[0] - 10*sr
+        CLIP_LEN_SAMPLE = CROP_LEN_SEC*sr
 
+        # crop
+        count_clips = 0
+        for uid, (clip_st_sec, bidx) in enumerate(clip_starts):
+            # boundaries
+            clip_ed_sec = clip_st_sec + CROP_LEN_SEC
+            clip_st_sample = int(clip_st_sec*sr)
+            clip_ed_sample = clip_st_sample + CLIP_LEN_SAMPLE
+            if clip_ed_sample > max_sample:
+                break
+            
             # crop
-            count_clips = 0
-            for uid, (clip_st_sec, bidx) in enumerate(clip_starts):
-                # boundaries
-                clip_ed_sec = clip_st_sec + CROP_LEN_SEC
-                clip_st_sample = int(clip_st_sec*sr)
-                clip_ed_sample = clip_st_sample + CLIP_LEN_SAMPLE
-                if clip_ed_sample > max_sample:
-                    break
-                
-                # crop
-                clip_wav = wav[clip_st_sample:clip_ed_sample]
-                clip_beats = []
-                
-                for bi in range(bidx, len(beats)):
-                    if beats[bi, 0] < clip_ed_sec:
-                        clip_beats.append(
-                            [beats[bi, 0]-clip_st_sec, beats[bi, 1]]
-                        )
-                
-                # save
-                path_out_audio_clip = os.path.join(
-                    path_out_sndir, str(bidx),'no_vocal.wav')
+            clip_wav = wav[clip_st_sample:clip_ed_sample]
+            clip_beats = []
+            
+            for bi in range(bidx, len(beats)):
+                if beats[bi, 0] < clip_ed_sec:
+                    clip_beats.append(
+                        [beats[bi, 0]-clip_st_sec, beats[bi, 1]]
+                    )
+            
+            # save
+            path_out_audio_clip = os.path.join(
+                path_out_sndir, str(bidx),'no_vocal.wav')
 
-                if os.path.exists(path_out_audio_clip):
-                    print('[o] existed')
-                    continue
-                
-                path_out_beats_clip = os.path.join(
-                    path_out_sndir, str(bidx), 'beats.npy')
-                os.makedirs(
-                    os.path.dirname(path_out_audio_clip), exist_ok=True)
-                sf.write(path_out_audio_clip, clip_wav, sr)
-                np.save(path_out_beats_clip, clip_beats)
+            if os.path.exists(path_out_audio_clip):
+                print('[o] existed')
+                continue
+            
+            path_out_beats_clip = os.path.join(
+                path_out_sndir, str(bidx), 'beats.npy')
+            os.makedirs(
+                os.path.dirname(path_out_audio_clip), exist_ok=True)
+            sf.write(path_out_audio_clip, clip_wav, sr)
+            np.save(path_out_beats_clip, clip_beats)
 
-                count_clips += 1
-            print(' > count:',  count_clips)
-        except:
-            print('[x] aborted')
-            continue 
+            count_clips += 1
+        print(' > count:',  count_clips)
+        # except:
+        #     print('[x] aborted')
+        #     continue 
 
         # finish
         end_time_iter = time.time()

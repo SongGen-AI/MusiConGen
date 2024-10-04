@@ -99,8 +99,8 @@ def export_audio_with_click(proc_res, path_audio, path_output, sr=44100):
 
 
 if __name__ == '__main__':
-    path_rootdir = '../audiocraft/dataset/example/full'
-    audio_base = 'no_vocals'
+    path_rootdir = '../../audiocraft/dataset/example/full'
+    audio_base = 'no_vocal'
     ext = 'wav'
     st, ed = 0, None
 
@@ -123,7 +123,7 @@ if __name__ == '__main__':
         print("==={}/{}======[{} - {}]========".format(
             i, num_files, st, ed))
         path_audio = filelist[i]
-        path_outfile = path_audio.replace('no_vocals.wav', 'beats.npy')
+        path_outfile = path_audio.replace('no_vocal.wav', 'beats.npy')
             
 
         print(' inp >', path_audio)

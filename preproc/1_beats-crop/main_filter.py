@@ -78,7 +78,7 @@ def compute_framewise_dbfs(
 if __name__ == '__main__':
 
     start_time_all = time.time()
-    root_dir = '../audiocraft/dataset/example/clip'
+    root_dir = '../../audiocraft/dataset/example/clip'
     files = traverse_dir(
         root_dir,
         str_include='no_vocal',
