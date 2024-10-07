@@ -1,2 +1,240 @@
-{"path": "dataset/example/clip/sample_1/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": "", "amplitude": null, "weight": null, "info_path": null}
-{"path": "dataset/example/clip/sample_2/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": "", "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/13 Years - Mystikal/100/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 185, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/13 Years - Mystikal/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 185, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/13 Years - Mystikal/144/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 185, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/13 Years - Mystikal/188/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 185, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/13 Years - Mystikal/232/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 185, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/13 Years - Mystikal/276/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 185, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/13 Years - Mystikal/320/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 185, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/13 Years - Mystikal/56/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 185, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/1500 - Gxx/73/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 120, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/1x(one-time) - Radio Edit - DJ Kizzy Rock/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/1x(one-time) - Radio Edit - DJ Kizzy Rock/148/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 69, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/1x(one-time) - Radio Edit - DJ Kizzy Rock/216/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/1x(one-time) - Radio Edit - DJ Kizzy Rock/284/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 69, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/1x(one-time) - Radio Edit - DJ Kizzy Rock/80/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 69, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/24  7 - Immature/108/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/24  7 - Immature/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/24  7 - Immature/140/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/24  7 - Immature/172/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/24  7 - Immature/204/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/24  7 - Immature/236/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/24  7 - Immature/268/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/24  7 - Immature/44/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/24  7 - Immature/76/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/3 rue Monplaisir - Ez3kiel/116/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 120, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/3 rue Monplaisir - Ez3kiel/168/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 120, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/3 rue Monplaisir - Ez3kiel/220/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 120, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/3 rue Monplaisir - Ez3kiel/272/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 120, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/3 rue Monplaisir - Ez3kiel/428/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 120, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/3 rue Monplaisir - Ez3kiel/480/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 120, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/3 rue Monplaisir - Ez3kiel/64/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 120, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/7am On Bridle Path - Drake/100/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 45, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/7am On Bridle Path - Drake/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 45, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/7am On Bridle Path - Drake/144/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 45, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/7am On Bridle Path - Drake/188/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 45, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/7am On Bridle Path - Drake/232/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 45, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/7am On Bridle Path - Drake/276/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 45, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/7am On Bridle Path - Drake/56/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 45, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/A Big Gangsters Earthday - Blackjesus Yoshua/230/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 99, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/A Big Gangsters Earthday - Blackjesus Yoshua/302/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 148, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/A Big Gangsters Earthday - Blackjesus Yoshua/374/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 99, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/A Big Gangsters Earthday - Blackjesus Yoshua/446/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 152, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Adeline - Kasey Chambers/116/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 110, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Adeline - Kasey Chambers/168/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 112, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Adeline - Kasey Chambers/220/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 115, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Adeline - Kasey Chambers/272/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 112, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Adeline - Kasey Chambers/64/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 112, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Advice - Cavetown/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Advice - Cavetown/168/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Advice - Cavetown/220/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Advice - Cavetown/272/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Advice - Cavetown/324/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Advice - Cavetown/64/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Agua En Mis Bolsillos - Copiloto Pilato/100/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 91, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Agua En Mis Bolsillos - Copiloto Pilato/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 91, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Agua En Mis Bolsillos - Copiloto Pilato/188/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 91, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Agua En Mis Bolsillos - Copiloto Pilato/276/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 89, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alaws Arep - Siakol/134/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 133, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alaws Arep - Siakol/14/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 129, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alaws Arep - Siakol/194/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 129, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alaws Arep - Siakol/254/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 129, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alaws Arep - Siakol/314/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 133, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alaws Arep - Siakol/374/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 133, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alaws Arep - Siakol/74/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 129, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alien Abductions and the Obscurities of Dating - CROONeR/141/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alien Abductions and the Obscurities of Dating - CROONeR/273/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alien Abductions and the Obscurities of Dating - CROONeR/339/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alien Abductions and the Obscurities of Dating - CROONeR/405/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 140, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alien Abductions and the Obscurities of Dating - CROONeR/471/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 140, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alien Abductions and the Obscurities of Dating - CROONeR/75/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 129, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alien Abductions and the Obscurities of Dating - CROONeR/9/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/All - Gupi/188/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 120, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alone Tonight - Chris Young/111/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 152, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alone Tonight - Chris Young/143/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 152, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alone Tonight - Chris Young/175/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 152, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alone Tonight - Chris Young/47/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 152, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Alone Tonight - Chris Young/79/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 152, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Am Ende bleiben doch nur Tr\u00e4ume - Die Flippers/110/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Am Ende bleiben doch nur Tr\u00e4ume - Die Flippers/14/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Am Ende bleiben doch nur Tr\u00e4ume - Die Flippers/158/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Am Ende bleiben doch nur Tr\u00e4ume - Die Flippers/206/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Am Ende bleiben doch nur Tr\u00e4ume - Die Flippers/62/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/American Dream - Tattooed Soul/135/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 66, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/American Dream - Tattooed Soul/195/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 133, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/American Dream - Tattooed Soul/255/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 129, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/American Dream - Tattooed Soul/315/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 66, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/American Dream - Tattooed Soul/75/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 66, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anapantexa - Dimos Anastasiadis/116/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 110, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anapantexa - Dimos Anastasiadis/168/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 110, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anapantexa - Dimos Anastasiadis/220/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 110, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anapantexa - Dimos Anastasiadis/272/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 110, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anapantexa - Dimos Anastasiadis/324/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 148, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anapantexa - Dimos Anastasiadis/376/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 148, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anapantexa - Dimos Anastasiadis/64/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 110, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/140/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/204/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/268/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/332/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/396/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/460/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/524/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/588/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/652/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Ancien Y\u00e9y\u00e9 - K.Tino/76/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 144, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Angel - Will To Power/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Angel - Will To Power/140/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Angel - Will To Power/204/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Angel - Will To Power/268/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Angel - Will To Power/332/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Angel - Will To Power/396/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Angel - Will To Power/460/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Angel - Will To Power/524/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Angel - Will To Power/76/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 136, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Body Murdered - Faith No More/109/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 191, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Body Murdered - Faith No More/157/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 98, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Body Murdered - Faith No More/205/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 96, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Body Murdered - Faith No More/253/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 98, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Body Murdered - Faith No More/301/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 98, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Body Murdered - Faith No More/349/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 96, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Body Murdered - Faith No More/61/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 96, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Messenger - Anthony Michael Angelo/13/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 157, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Messenger - Anthony Michael Angelo/165/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 157, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Messenger - Anthony Michael Angelo/241/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 157, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Messenger - Anthony Michael Angelo/317/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 157, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Messenger - Anthony Michael Angelo/393/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 157, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Another Messenger - Anthony Michael Angelo/89/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 157, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anyway - SARABETH/120/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 80, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anyway - SARABETH/156/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 80, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anyway - SARABETH/192/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 80, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anyway - SARABETH/228/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 80, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Anyway - SARABETH/84/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 80, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/As Long as I Have You - Elvis Presley/13/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 105, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/As Long as I Have You - Elvis Presley/45/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 108, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Astral Dopamina - Alkaloides/117/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 115, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Astral Dopamina - Alkaloides/13/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 112, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Astral Dopamina - Alkaloides/169/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 115, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Astral Dopamina - Alkaloides/221/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 112, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Astral Dopamina - Alkaloides/273/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 115, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Astral Dopamina - Alkaloides/65/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 115, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Augusta - Gracie Abrams/100/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 94, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Augusta - Gracie Abrams/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 94, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Augusta - Gracie Abrams/144/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 94, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Augusta - Gracie Abrams/188/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 94, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Augusta - Gracie Abrams/232/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 94, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Augusta - Gracie Abrams/276/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 94, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Augusta - Gracie Abrams/56/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 94, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/124/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/180/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/236/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/292/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/348/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/404/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/460/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/516/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/572/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/628/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Babu - Babla/68/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bass up - Savana Painter/108/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 105, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bass up - Savana Painter/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 105, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bass up - Savana Painter/156/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 105, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bass up - Savana Painter/60/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 105, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Beautiful Heartbreak - Hilary Weeks/133/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Beautiful Heartbreak - Hilary Weeks/173/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Beautiful Heartbreak - Hilary Weeks/213/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Beautiful Heartbreak - Hilary Weeks/253/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Beautiful Heartbreak - Hilary Weeks/53/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Beautiful Heartbreak - Hilary Weeks/93/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Betrayal - Candy Rose/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 167, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Betrayal - Candy Rose/132/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 83, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Betrayal - Candy Rose/192/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 126, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Betrayal - Candy Rose/252/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 167, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Betrayal - Candy Rose/312/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 167, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Betrayal - Candy Rose/372/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 167, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Betrayal - Candy Rose/72/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 167, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/132/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/172/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/212/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/252/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/292/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/332/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/372/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/412/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/452/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/52/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bitter Sweet Symphony - Remastered 2016 - The Verve/92/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 172, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Blinding Lights - Bardcore - Max Martin/274/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 54, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bloodred - Compton Maddux/125/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bloodred - Compton Maddux/181/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bloodred - Compton Maddux/237/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bloodred - Compton Maddux/293/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 117, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bloodred - Compton Maddux/349/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 115, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Blow - Theory of a Deadman/122/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 148, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Blow - Theory of a Deadman/14/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 148, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Blow - Theory of a Deadman/158/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 148, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Blow - Theory of a Deadman/194/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 148, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Blow - Theory of a Deadman/50/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 148, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Blow - Theory of a Deadman/86/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 148, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bonus Track (The Interview) - Mystery Known/119/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 178, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bonus Track (The Interview) - Mystery Known/15/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 178, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bonus Track (The Interview) - Mystery Known/171/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 178, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bonus Track (The Interview) - Mystery Known/223/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 178, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bonus Track (The Interview) - Mystery Known/275/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 178, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bonus Track (The Interview) - Mystery Known/67/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 178, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money (feat. Jeremih & Turf Talk) - E-40/108/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 52, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money (feat. Jeremih & Turf Talk) - E-40/156/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 103, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money (feat. Jeremih & Turf Talk) - E-40/204/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 103, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money (feat. Jeremih & Turf Talk) - E-40/252/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 103, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money (feat. Jeremih & Turf Talk) - E-40/300/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 103, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money (feat. Jeremih & Turf Talk) - E-40/348/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 103, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money (feat. Jeremih & Turf Talk) - E-40/60/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 103, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money - Trick Daddy/15/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 85, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money - Trick Daddy/175/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 85, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money - Trick Daddy/255/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 85, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money - Trick Daddy/335/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 85, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money - Trick Daddy/415/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 85, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money - Trick Daddy/495/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 85, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bout My Money - Trick Daddy/95/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 85, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Boyz - Yemi Alade/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 199, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Boyz - Yemi Alade/156/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 199, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Boyz - Yemi Alade/204/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 199, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Boyz - Yemi Alade/252/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 199, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Boyz - Yemi Alade/60/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 199, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bubble Up - Gumdrop Alley/13/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 81, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bubble Up - Gumdrop Alley/157/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 167, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bubble Up - Gumdrop Alley/85/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 167, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bulletproof Heart (Acoustic) - Sam Riggs/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 101, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bulletproof Heart (Acoustic) - Sam Riggs/120/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 76, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bulletproof Heart (Acoustic) - Sam Riggs/156/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 152, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bulletproof Heart (Acoustic) - Sam Riggs/192/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 152, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bulletproof Heart (Acoustic) - Sam Riggs/48/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 101, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/Bulletproof Heart (Acoustic) - Sam Riggs/84/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 76, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/By Your Side - John Legend/12/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 98, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/By Your Side - John Legend/120/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 73, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/By Your Side - John Legend/156/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 71, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/By Your Side - John Legend/192/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 103, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/By Your Side - John Legend/228/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 73, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/By Your Side - John Legend/264/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 72, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/By Your Side - John Legend/48/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 42, "amplitude": null, "weight": null, "info_path": null}
+{"path": "dataset/example/clip/By Your Side - John Legend/84/no_vocal.wav", "duration": 30.0, "sample_rate": 44100, "bpm": 101, "amplitude": null, "weight": null, "info_path": null}

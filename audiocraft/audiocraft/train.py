@@ -121,7 +121,7 @@ def init_seed_and_system(cfg):
     logger.debug('Setting efficient attention backend to %s', cfg.efficient_attention_backend)
 
 
-@hydra_main(config_path='../config', config_name='config', version_base='1.1')
+@hydra_main(config_path='../config', config_name='config')
 def main(cfg):
     init_seed_and_system(cfg)
 
