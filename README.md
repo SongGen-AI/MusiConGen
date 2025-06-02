@@ -12,7 +12,7 @@ MusiConGen is based on pretrained [Musicgen](https://github.com/facebookresearch
 <br />
 
 ## Installation
-MusiConGen requires Python 3.9 and PyTorch 2.0.0. You can run:
+MusiConGen requires Python 3.10 and PyTorch 2.0.1. You can run:
 ```bash
 pip install -r requirements.txt
 ```
